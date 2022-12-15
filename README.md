@@ -44,7 +44,7 @@ No meu website você encontra outros projetos meus como também um pouco sobre m
 
 Ferramentas:
 * Dark-Spammer
-* Discord BOT
+* Fast-Spammer
 
 
 
