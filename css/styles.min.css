@@ -5611,6 +5611,151 @@ body,html {
 	text-decoration: none;
 }
 
+.desktop .explorer-window .window-body.friends-body,.desktop .explorer-window .window-body.contact-body {
+	color: #f1f1f1;
+	padding: 15px!important;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-moz-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-moz-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	flex-flow: column;
+	text-align: center;
+	overflow-x: hidden;
+	overflow-y: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
+.desktop .explorer-window .window-body.friends-body .thanks,.desktop .explorer-window .window-body.contact-body .thanks {
+	display: none;
+}
+
+.desktop .explorer-window .window-body.friends-body form,.desktop .explorer-window .window-body.contact-body form {
+	max-width: 600px;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-moz-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-moz-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	flex-flow: column;
+	width: 100%;
+}
+
+.desktop .explorer-window .window-body.friends-body form input,.desktop .explorer-window .window-body.friends-body form textarea,.desktop .explorer-window .window-body.contact-body form input,.desktop .explorer-window .window-body.contact-body form textarea {
+	width: 100%;
+}
+
+.desktop .explorer-window .window-body.friends-body form .honeypot,.desktop .explorer-window .window-body.contact-body form .honeypot {
+	display: none;
+}
+
+.desktop .explorer-window .window-body.friends-body form .to-from-field,.desktop .explorer-window .window-body.contact-body form .to-from-field {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.desktop .explorer-window .window-body.friends-body form .to-from-field.error input,.desktop .explorer-window .window-body.contact-body form .to-from-field.error input {
+	border: 1px solid #de5145;
+	border-left: 0;
+}
+
+.desktop .explorer-window .window-body.friends-body form .to-from-field.error span,.desktop .explorer-window .window-body.contact-body form .to-from-field.error span {
+	border: 1px solid #de5145;
+	border-right: 0;
+}
+
+.desktop .explorer-window .window-body.friends-body form .to-from-field span,.desktop .explorer-window .window-body.contact-body form .to-from-field span {
+	width: 68px;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	background-color: #ddd;
+}
+
+.desktop .explorer-window .window-body.friends-body form .to-from-field input,.desktop .explorer-window .window-body.contact-body form .to-from-field input {
+	background-color: #f1f1f1;
+	width: calc(100% - 68px);
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.desktop .explorer-window .window-body.friends-body form .to-from-field input,.desktop .explorer-window .window-body.friends-body form .to-from-field span,.desktop .explorer-window .window-body.contact-body form .to-from-field input,.desktop .explorer-window .window-body.contact-body form .to-from-field span {
+	float: left;
+	text-align: left;
+	padding: 5px;
+	border: 0;
+	color: #333;
+	font-size: 1rem;
+}
+
+.desktop .explorer-window .window-body.friends-body form textarea,.desktop .explorer-window .window-body.contact-body form textarea {
+	background-color: #f1f1f1;
+	border-radius: 4px;
+	border: 0;
+	padding: 5px;
+	color: #333;
+	font-size: 1rem;
+	resize: vertical;
+}
+
+.desktop .explorer-window .window-body.friends-body form textarea.error,.desktop .explorer-window .window-body.contact-body form textarea.error {
+	border: 1px solid #de5145;
+}
+
+.desktop .explorer-window .window-body.friends-body form .contact-submit,.desktop .explorer-window .window-body.contact-body form .contact-submit {
+	padding: 10px 15px;
+	border-radius: 4px;
+	font-size: 1rem;
+	background-color: #f1f1f1;
+	color: #333;
+	margin-left: auto;
+	text-transform: uppercase!important;
+	font-weight: 700!important;
+	margin-top: 15px;
+	cursor: pointer;
+}
+
+.desktop .explorer-window .window-body.friends-body *,.desktop .explorer-window .window-body.contact-body * {
+	text-transform: none!important;
+	font-weight: 400!important;
+}
+
+.desktop .explorer-window .window-body.friends-body p,.desktop .explorer-window .window-body.contact-body p {
+	margin-bottom: 15px;
+}
+
+.desktop .explorer-window .window-body.friends-body p:last-child,.desktop .explorer-window .window-body.contact-body p:last-child {
+	margin-bottom: 0;
+}
+
+.desktop .explorer-window .window-body.friends-body a,.desktop .explorer-window .window-body.contact-body a {
+	color: #ADD8E6;
+	text-decoration: none;
+}
+
 .desktop .explorer-window .window-body.awards-body,.desktop .explorer-window .window-body.work-body {
 	overflow-x: hidden;
 	overflow-y: auto;
