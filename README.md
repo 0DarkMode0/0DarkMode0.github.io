@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/0DarkMode0/0DarkMode0.github.io">
-    <img src="imagens/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">My Website</h3>
@@ -53,4 +53,4 @@ Ferramentas:
 [forks-url]: https://github.com/0DarkMode0/0DarkMode0.github.io/network/members
 [stars-shield]: https://img.shields.io/github/stars/0DarkMode0/0DarkMode0.github.io.svg?style=for-the-badge
 [stars-url]: https://github.com/0DarkMode0/0DarkMode0.github.io/stargazers
-[product-screenshot]: imagens/projeto.png
+[product-screenshot]: img/projeto.png
