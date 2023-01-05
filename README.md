@@ -20,7 +20,7 @@
   <h3 align="center">My Website</h3>
 
   <p align="center">
-    Meu Website que fala sobre mim
+    Meu Website com várias ferramentas
     <br />
     <br />
     <a href="https://github.com/0DarkMode0?tab=repositories"><strong>Meus Projetos</strong></a>
@@ -36,11 +36,10 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-<a href="https://github.com/0DarkMode0/0DarkMode0.github.io"><strong>[ Download ]</strong></a>
 
 </div>
 
-No meu website você encontra outros projetos meus como também um pouco sobre mim.
+No meu website você encontra várias ferramentas úteis.
 
 Ferramentas:
 * Dark-Spammer
